@@ -1,0 +1,46 @@
+/* Element selector */
+body {
+    font-family: "consolas", sans-serif;
+    background-color: whitesmoke;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  /* ID selector */
+  #main-header {
+    background-color: darkcyan;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  /* Class selector */
+  .tagline {
+    font-style: italic;
+    font-size: 18px;
+  }
+  
+  /* Style an image */
+  .featured-img {
+    display: block;
+    max-width: 100%;
+    border: 4px solid lightseagreen;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: white;
+  }
+
+  /* Footer styling */
+footer {
+    background-color: darkcyan;
+    color: darkgrey;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+    border-top: 2px solid silver;
+    font-size: 14px;
+  }
